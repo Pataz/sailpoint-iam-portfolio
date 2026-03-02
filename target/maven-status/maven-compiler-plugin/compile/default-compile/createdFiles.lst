@@ -1,0 +1,4 @@
+com\sailpoint\api\SailPointContext.class
+com\sailpoint\object\Identity.class
+com\sailpoint\rules\RuleExemple_CostCenterTest.class
+com\sailpoint\rules\RuleExemple_CostCenter.class
